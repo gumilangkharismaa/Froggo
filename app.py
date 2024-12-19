@@ -12,8 +12,8 @@ import tempfile
 import gdown
 
 # URL dan nama file model
-MODEL_URL = "https://drive.google.com/uc?id=YOUR_MODEL_FILE_ID"
-MODEL_FILE = "model_densenet169_frog_classifier.pth"
+MODEL_URL = "https://drive.google.com/file/d/1QIN6-yl5aOF33EjmCssCDTcHhoz2iYrt/view?usp=sharing"
+MODEL_FILE = "model_densenet169_frog_classifier_9_classes.pth"
 
 # Fungsi download model
 def download_model():
