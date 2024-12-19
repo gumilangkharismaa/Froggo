@@ -5,3 +5,4 @@ Pillow
 numpy
 pydub
 librosa
+gdown
